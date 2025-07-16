@@ -118,8 +118,8 @@ The analysis focuses on deriving insights to answer the following business quest
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/retail-analysis.git
-   cd retail-analysis
+   git clone https://github.com/EddyEtesin/Retail-Sales-Analysis.git
+   cd Retail-Sales-Analysis
    ```
 2. Install dependencies:
 
